@@ -257,7 +257,7 @@ function FileTransfer() {
     </div>
   );
 }
-
+```
 ### Example:
 
 ![alt text](secure-copy-apis/screenshots/secure-copy-file-transfer.png)
