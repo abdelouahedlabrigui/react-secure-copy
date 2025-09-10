@@ -59,6 +59,10 @@ function App() {
 }
 ```
 
+### Example:
+
+![alt text](secure-copy-apis/screenshots/secure-copy-system-monitoring.png)
+
 ## 2. CommandExecutor (command-executor.tsx)
 
 ### Description
@@ -105,6 +109,10 @@ function CommandExecutor() {
 }
 ```
 
+### Example:
+
+![alt text](secure-copy-apis/screenshots/secure-copy-command-executor.png)
+
 ## 3. ConnectionTest (connection-test.tsx)
 
 ### Description
@@ -148,6 +156,10 @@ function ConnectionTest() {
   );
 }
 ```
+
+### Example:
+
+![alt text](secure-copy-apis/screenshots/secure-copy-connection-test.png)
 
 ## 4. FileExplorer (file-explorer.tsx)
 
@@ -195,6 +207,10 @@ function FileExplorer() {
 }
 ```
 
+### Example:
+
+![alt text](secure-copy-apis/screenshots/secure-copy-file-explorer.png)
+
 ## 5. FileTransfer (file-transfer.tsx)
 
 ### Description
@@ -241,3 +257,7 @@ function FileTransfer() {
     </div>
   );
 }
+
+### Example:
+
+![alt text](secure-copy-apis/screenshots/secure-copy-file-transfer.png)
